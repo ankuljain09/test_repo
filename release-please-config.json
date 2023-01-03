@@ -1,0 +1,11 @@
+{
+    "packages": {
+        "python": {
+            "component": "python-package",
+            "release-type": "python",
+            "extra-files": [
+                "python/type/gapic_version.py"
+            ]
+        }
+    }
+}
