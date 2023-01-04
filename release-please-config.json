@@ -1,4 +1,7 @@
 {
+    "release-type": "python",
+    "release-as": "0.0.1",
+    "draft": true,
     "packages": {
         "python": {
             "component": "python-package",
@@ -6,6 +9,7 @@
             "extra-files": [
                 "python/type/gapic_version.py"
             ]
+            "changelog-path": "docs/CHANGES.rst"
         }
     }
 }
