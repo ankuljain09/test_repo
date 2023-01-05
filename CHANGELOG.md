@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.1](https://github.com/ankuljain09/test_repo/compare/v0.1.0...v0.0.1) (2023-01-05)
+
+
+### Features
+
+* commitlint enabled ([cdd9125](https://github.com/ankuljain09/test_repo/commit/cdd91250022582bd61ec099189151cca5a7c8b1e))
+
+
+### Miscellaneous Chores
+
+* release 0.0.1 ([483db9d](https://github.com/ankuljain09/test_repo/commit/483db9dba31946eb19a506775fe03383457a1748))
+
 ## 0.1.0 (2023-01-04)
 
 
