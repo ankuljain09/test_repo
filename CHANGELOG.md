@@ -6,7 +6,7 @@
 ### Features
 
 * commitlint enabled ([cdd9125](https://github.com/ankuljain09/test_repo/commit/cdd91250022582bd61ec099189151cca5a7c8b1e))
-
+* test feature comment
 
 ### Miscellaneous Chores
 
