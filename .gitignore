@@ -133,7 +133,7 @@ dmypy.json
 .DS_Store
 
 # Commitlint
-.husky
+.husky/
 
 #npm
 node_modules/
