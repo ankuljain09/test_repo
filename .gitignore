@@ -134,6 +134,7 @@ dmypy.json
 
 # Commitlint
 .husky/
+commitlint.config.js
 
 #npm
 node_modules/
