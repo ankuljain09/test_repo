@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.2](https://github.com/ankuljain09/test_repo/compare/v0.1.1...v0.1.2) (2023-01-05)
+
+
+### Bug Fixes
+
+* Create python-publish.yml ([054d2db](https://github.com/ankuljain09/test_repo/commit/054d2dbbdcdc349f21726de335c45f8342abea4d))
+* Created package Requirements file ([be76295](https://github.com/ankuljain09/test_repo/commit/be76295019cacb8b3c7b321acfcd825e201907c3))
+* Created setup.cfg ([ad57d0c](https://github.com/ankuljain09/test_repo/commit/ad57d0c1e50675658f77eec9a1fe1fed4b43688b))
+* created Setup.py ([0f13a34](https://github.com/ankuljain09/test_repo/commit/0f13a344111b43aa7047d469726f2195605b80de))
+
 ## [0.1.1](https://github.com/ankuljain09/test_repo/compare/v0.1.0...v0.1.1) (2023-01-05)
 
 
