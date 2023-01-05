@@ -86,9 +86,9 @@ with io.open(readme_filename, encoding="utf-8") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name="test-package",
+    name="test-package-poc-python-github-publish",
     version="0.0.1",
-    description="Google Dataproc templates written in Python",
+    description="Poc-python-github-publish written in Python",
     long_description_content_type="text/markdown",
     long_description=readme,
     license="Apache 2.0",
