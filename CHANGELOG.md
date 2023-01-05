@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/ankuljain09/test_repo/compare/v0.0.1...v0.1.0) (2023-01-05)
+
+
+### Features
+
+* updating gitignore and enabling commitlint ([81e7602](https://github.com/ankuljain09/test_repo/commit/81e76027cd687cacb49c64cb572b5459d5969088))
+
+
+### Bug Fixes
+
+* Deleting unnecessary files ([f95ffe3](https://github.com/ankuljain09/test_repo/commit/f95ffe323fbd62148dd50f39b43ef81764212216))
+
 ## [0.0.1](https://github.com/ankuljain09/test_repo/compare/v0.1.0...v0.0.1) (2023-01-05)
 
 
