@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/ankuljain09/test_repo/compare/v0.1.3...v0.2.0) (2023-01-08)
+
+
+### Features
+
+* Updated python publish workflow ([7e5c7f8](https://github.com/ankuljain09/test_repo/commit/7e5c7f85e5e1b87e9f8bc74aef339d63f5c54451))
+
 ## [0.1.3](https://github.com/ankuljain09/test_repo/compare/v0.1.2...v0.1.3) (2023-01-07)
 
 
