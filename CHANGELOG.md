@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ankuljain09/test_repo/compare/v1.0.0...v1.1.0) (2023-01-08)
+
+
+### Features
+
+* Updated python publish yml ([6f608bc](https://github.com/ankuljain09/test_repo/commit/6f608bca233a83fd5b17357a61970ede3d777c95))
+
+
+### Bug Fixes
+
+* Updated commit checker yml ([254b9ba](https://github.com/ankuljain09/test_repo/commit/254b9bac9ca52c843a8664cfc94fec56356013f4))
+
 ## [1.0.0](https://github.com/ankuljain09/test_repo/compare/v0.2.0...v1.0.0) (2023-01-08)
 
 
