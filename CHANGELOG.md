@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ankuljain09/test_repo/compare/v1.1.2...v1.2.0) (2023-01-08)
+
+
+### Features
+
+* Update to python publish ([410861a](https://github.com/ankuljain09/test_repo/commit/410861ab69ad6632fd848a78c08e16977b192fff))
+
 ## [1.1.2](https://github.com/ankuljain09/test_repo/compare/v1.1.1...v1.1.2) (2023-01-08)
 
 
