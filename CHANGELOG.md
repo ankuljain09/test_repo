@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0](https://github.com/ankuljain09/test_repo/compare/v0.2.0...v1.0.0) (2023-01-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Python Publish automation enabled
+
+### Features
+
+* commit checker enabled ([5df45b6](https://github.com/ankuljain09/test_repo/commit/5df45b664e1d61766d0d84f53b4fa2670bacb55a))
+* Python Publish automation enabled ([2579ed3](https://github.com/ankuljain09/test_repo/commit/2579ed3cbf93d62a62de345fd650b311d70e6a12))
+
 ## [0.2.0](https://github.com/ankuljain09/test_repo/compare/v0.1.3...v0.2.0) (2023-01-08)
 
 
