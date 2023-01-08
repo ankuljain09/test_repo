@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/ankuljain09/test_repo/compare/v1.1.1...v1.1.2) (2023-01-08)
+
+
+### Bug Fixes
+
+* updating release publish event type ([9ed535a](https://github.com/ankuljain09/test_repo/commit/9ed535a6c8da713de99e62195fee37c1f753055c))
+
 ## [1.1.0](https://github.com/ankuljain09/test_repo/compare/v1.0.0...v1.1.0) (2023-01-08)
 
 
