@@ -5,7 +5,7 @@
             "component": "python-package",
             "release-type": "python",
             "extra-files": [
-                "type/gapic_version.py"
+                "version.py"
             ]
             "changelog-path": "docs/CHANGES.rst"
         }
