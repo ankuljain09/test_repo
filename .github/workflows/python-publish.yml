@@ -9,13 +9,7 @@
 name: Upload Python Package
 
 on:
-  workflow_run:
-    workflows: [release-please]
-    types:
-      - completed
-
-permissions:
-  contents: read
+  workflow_call:
 
 jobs:
   deploy:
