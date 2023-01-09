@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.3.0](https://github.com/ankuljain09/test_repo/compare/v1.2.0...v1.3.0) (2023-01-09)
+
+
+### Features
+
+* created python publish trigger ([ee22e4c](https://github.com/ankuljain09/test_repo/commit/ee22e4c66aebeb01a63b14d3f8c6b460a95cdd73))
+
+
+### Bug Fixes
+
+* create version.py ([3c46a38](https://github.com/ankuljain09/test_repo/commit/3c46a38899f3aea05935c0ad2612bd082e076aa7))
+* Update Python publish event ([4ca58c7](https://github.com/ankuljain09/test_repo/commit/4ca58c71a42390f7f54b2a3286e1e7d621c31166))
+
+
+### Documentation
+
+* Updated release please config ([7f36119](https://github.com/ankuljain09/test_repo/commit/7f36119768d8bfac9699238672ec3968741cf0ee))
+
 ## [1.2.0](https://github.com/ankuljain09/test_repo/compare/v1.1.2...v1.2.0) (2023-01-08)
 
 
