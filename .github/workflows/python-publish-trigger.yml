@@ -18,7 +18,7 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
-    - uses: actions-ecosystem/action-regex-match@v3
+    - uses: KyoriPowered/action-regex-match@v3
       id: regex-match
       with:
         text: ${{ github.event.pull_request.title }} 
