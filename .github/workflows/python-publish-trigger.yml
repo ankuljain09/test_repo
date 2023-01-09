@@ -23,6 +23,5 @@ jobs:
       with:
         text: ${{ github.event.pull_request.title }} 
         regex: '^(chore\(main\): release).*$'
-  call-workflow-2-in-local-repo:
-    uses: ./.github/workflows/python-publish.yml
-    if: ${{ steps.regex-match.outputs.match != '' }}
+    - if: ${{ steps.regex-match.outputs.match != '' }}
+      uses: ./.github/workflows/python-publish.yml
