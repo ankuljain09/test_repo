@@ -20,7 +20,9 @@ jobs:
     steps:
     - name: Check user name
       if: github.event.pull_request.user.login == 'github-actions[bot]'
-      run: echo ${{ github.event.pull_request.user.login }}
+      run: |
+        echo ${{ github.event.pull_request.user.login }}
+        echo ${{ github.event.pull_request.labels.[0].name }}
     - name: Check title
       uses: KyoriPowered/action-regex-match@v3
       id: regex-match
@@ -28,9 +30,8 @@ jobs:
         text: ${{ github.event.pull_request.title }} 
         regex: '^(chore\(main\): release).*$'
     - name: Check label name
-      run: |
-        echo ${{ github.event.pull_request.labels.*.name }}
-        echo ${{ github.event.label.name }}
+      if: contains(github.event.pull_request.labels.[0].name, 'autorelease')
+      run:  echo ${{ github.event.pull_request.labels.[0].name }}
     - name: Check out repository
       uses: actions/checkout@v3
     - name: Set up Python
