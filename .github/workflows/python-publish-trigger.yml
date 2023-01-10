@@ -14,24 +14,10 @@ on:
       - closed
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
+  pypi_publish:
+    if: (github.event.pull_request.merged == true) && (github.event.pull_request.user.login == 'github-actions[bot]') && contains(github.event.pull_request.labels[0].name, 'autorelease')
     runs-on: ubuntu-latest
     steps:
-    - name: Check user name
-      if: github.event.pull_request.user.login == 'github-actions[bot]'
-      run: |
-        echo ${{ github.event.pull_request.user.login }}
-        echo ${{ github.event.pull_request.labels[0].name }}
-    - name: Check title
-      uses: KyoriPowered/action-regex-match@v3
-      id: regex-match
-      with:
-        text: ${{ github.event.pull_request.title }} 
-        regex: '^(chore\(main\): release).*$'
-    - name: Check label name
-      if: contains(github.event.pull_request.labels[0].name, 'autorelease')
-      run:  echo ${{ github.event.pull_request.labels[0].name }}
     - name: Check out repository
       uses: actions/checkout@v3
     - name: Set up Python
@@ -47,7 +33,6 @@ jobs:
         cd python
         python -m build
     - name: Publish distribution 📦 to Test PyPI
-      if: ${{ steps.regex-match.outputs.match != '' }}
       run: |
         cd python
         pip install twine
