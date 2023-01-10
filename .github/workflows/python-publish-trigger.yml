@@ -14,8 +14,8 @@ on:
       - closed
 
 jobs:
-  if_merged:
-    if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.label.name, 'autorelease')) && (github.event.pull_request.user.login == "github-actions[bot]") }}
+  pr_check_publish:
+    if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.label.name, 'autorelease')) && (github.event.pull_request.user.login == 'github-actions[bot]') }}
     runs-on: ubuntu-latest
     steps:
     - uses: KyoriPowered/action-regex-match@v3
