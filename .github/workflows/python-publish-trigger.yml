@@ -15,7 +15,7 @@ on:
 
 jobs:
   if_merged:
-    if: github.event.pull_request.merged == true
+    if: ${{ (github.event.pull_request.merged == true) && (contains(github.event.pull_request.label.name, 'autorelease')) && (github.event.pull_request.user.login == "github-actions[bot]") }}
     runs-on: ubuntu-latest
     steps:
     - uses: KyoriPowered/action-regex-match@v3
@@ -31,7 +31,6 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: |
-        echo "${{ github.event.pull_request.user.login }}"
         python -m pip install --upgrade pip
         pip install build
     - name: Build package
