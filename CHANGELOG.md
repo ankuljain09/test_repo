@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.9](https://github.com/ankuljain09/test_repo/compare/v1.3.8...v1.3.9) (2023-01-10)
+
+
+### Bug Fixes
+
+* updated get label ([#53](https://github.com/ankuljain09/test_repo/issues/53)) ([ec3037c](https://github.com/ankuljain09/test_repo/commit/ec3037c2bdbeb3e48cf7bdd499245894e2389e4e))
+* updated get label step ([#51](https://github.com/ankuljain09/test_repo/issues/51)) ([c2c8fd1](https://github.com/ankuljain09/test_repo/commit/c2c8fd1827cdb281c0d6a9f230a3866e2504d3ce))
+* updated if ([#54](https://github.com/ankuljain09/test_repo/issues/54)) ([7e699d9](https://github.com/ankuljain09/test_repo/commit/7e699d9e25fbe4ef54841e0142b3e20bd8d70437))
+
 ## [1.3.8](https://github.com/ankuljain09/test_repo/compare/v1.3.7...v1.3.8) (2023-01-10)
 
 
