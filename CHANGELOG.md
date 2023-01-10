@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.3.7](https://github.com/ankuljain09/test_repo/compare/v1.3.6...v1.3.7) (2023-01-10)
+
+
+### Bug Fixes
+
+* removed if ([ff8b86f](https://github.com/ankuljain09/test_repo/commit/ff8b86f2930d30eca767b1bda1910056903d49d7))
+* updated if ([d9c763f](https://github.com/ankuljain09/test_repo/commit/d9c763fe0f8bd2554bc6e1df664443154c54d85e))
+* updated the if expression ([1955a5b](https://github.com/ankuljain09/test_repo/commit/1955a5b660f67a799e9c1e023aa18bfa82c26d51))
+* Updated the if statement ([365a2ad](https://github.com/ankuljain09/test_repo/commit/365a2adab8481508f86323087438a712678d488d))
+
 ## [1.3.6](https://github.com/ankuljain09/test_repo/compare/v1.3.5...v1.3.6) (2023-01-10)
 
 
