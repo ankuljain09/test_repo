@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.4](https://github.com/ankuljain09/test_repo/compare/v1.3.3...v1.3.4) (2023-01-10)
+
+
+### Bug Fixes
+
+* updated the Python-publish ([8df2330](https://github.com/ankuljain09/test_repo/commit/8df233059d10deb5b7fe78fd1b1d0915ae9e5ec8))
+
 ## [1.3.3](https://github.com/ankuljain09/test_repo/compare/v1.3.2...v1.3.3) (2023-01-10)
 
 
