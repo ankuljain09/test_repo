@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.3](https://github.com/ankuljain09/test_repo/compare/v1.3.2...v1.3.3) (2023-01-10)
+
+
+### Bug Fixes
+
+* updated action name ([8557998](https://github.com/ankuljain09/test_repo/commit/8557998a86271cb0f9f735f0243c7bca02e3b008))
+* updated python-publish action name ([bf0d9bb](https://github.com/ankuljain09/test_repo/commit/bf0d9bbe5c10bd0f52ac018115d7dcde225a0328))
+
 ## [1.3.2](https://github.com/ankuljain09/test_repo/compare/v1.3.1...v1.3.2) (2023-01-10)
 
 
