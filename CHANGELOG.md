@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.6](https://github.com/ankuljain09/test_repo/compare/v1.3.5...v1.3.6) (2023-01-10)
+
+
+### Bug Fixes
+
+* check for autorelease and user.login ([bb5332e](https://github.com/ankuljain09/test_repo/commit/bb5332e8a172c9e86269cf88720f3338f6e69d83))
+* corrected quote ([dc8741a](https://github.com/ankuljain09/test_repo/commit/dc8741a3955a0bb8f97a716d7c0dd5281f1cce9a))
+
 ## [1.3.5](https://github.com/ankuljain09/test_repo/compare/v1.3.4...v1.3.5) (2023-01-10)
 
 
