@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check user name
-      if: github.event.pull_request.user.login == 'github-actions[bot]'
+      if: contains(github.event.pull_request.user.login, 'bot')
       run: echo ${{ github.event.pull_request.user.login }}
     - name: Check title
       uses: KyoriPowered/action-regex-match@v3
@@ -28,7 +28,7 @@ jobs:
         text: ${{ github.event.pull_request.title }} 
         regex: '^(chore\(main\): release).*$'
     - name: Check label name
-      if: contains(github.event.pull_request.label.name, 'autorelease')
+      if: contains(github.event.label.name, 'autorelease')
       run: echo ${{ github.event.pull_request.label.name }}
     - name: Check out repository
       uses: actions/checkout@v3
