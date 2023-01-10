@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/ankuljain09/test_repo/compare/v1.3.4...v1.3.5) (2023-01-10)
+
+
+### Bug Fixes
+
+* get PR author name ([d4e2b8a](https://github.com/ankuljain09/test_repo/commit/d4e2b8af44219cbb88db5979b058108957ad0a52))
+
 ## [1.3.4](https://github.com/ankuljain09/test_repo/compare/v1.3.3...v1.3.4) (2023-01-10)
 
 
