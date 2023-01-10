@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.1](https://github.com/ankuljain09/test_repo/compare/v1.3.0...v1.3.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* Update the syntax ([a200fa4](https://github.com/ankuljain09/test_repo/commit/a200fa4e485804f340c6075cf079c88bccff7cee))
+* Updated action version ([88bff9a](https://github.com/ankuljain09/test_repo/commit/88bff9abfa50fe850c58fc0c1b36bd69809d0792))
+* updated regex action  name ([74fd33a](https://github.com/ankuljain09/test_repo/commit/74fd33a75d646ee9be15a79724127e9db3a4b3b4))
+
 ## [1.3.0](https://github.com/ankuljain09/test_repo/compare/v1.2.0...v1.3.0) (2023-01-09)
 
 
