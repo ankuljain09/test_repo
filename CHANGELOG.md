@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.10](https://github.com/ankuljain09/test_repo/compare/v1.3.9...v1.3.10) (2023-01-10)
+
+
+### Bug Fixes
+
+* updated yml to include longer if ([#55](https://github.com/ankuljain09/test_repo/issues/55)) ([13ae6d5](https://github.com/ankuljain09/test_repo/commit/13ae6d5b23f445d0ea91c3cf0c860b3d0161e18a))
+
 ## [1.3.9](https://github.com/ankuljain09/test_repo/compare/v1.3.8...v1.3.9) (2023-01-10)
 
 
