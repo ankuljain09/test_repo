@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Python publish trigger
+name: python-publish-trigger
 
 on:
   pull_request_target:
@@ -26,4 +26,4 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v3
     - if: ${{ steps.regex-match.outputs.match != '' }}
-      uses: ./.github/workflows/python-publish.yml
+      uses: ./.github/actions/python-publish
