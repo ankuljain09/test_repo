@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/ankuljain09/test_repo/compare/v1.3.1...v1.3.2) (2023-01-10)
+
+
+### Bug Fixes
+
+* Added checkout repo step ([5018409](https://github.com/ankuljain09/test_repo/commit/50184091b2ea1fb402fbd71053430ce8d5c683a0))
+
 ## [1.3.1](https://github.com/ankuljain09/test_repo/compare/v1.3.0...v1.3.1) (2023-01-09)
 
 
