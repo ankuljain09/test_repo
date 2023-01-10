@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.8](https://github.com/ankuljain09/test_repo/compare/v1.3.7...v1.3.8) (2023-01-10)
+
+
+### Bug Fixes
+
+* updated if ([#49](https://github.com/ankuljain09/test_repo/issues/49)) ([a07bfeb](https://github.com/ankuljain09/test_repo/commit/a07bfebed397d9fa0f8e3f0bc37be2bc4247829f))
+
 ## [1.3.7](https://github.com/ankuljain09/test_repo/compare/v1.3.6...v1.3.7) (2023-01-10)
 
 
