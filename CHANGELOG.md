@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.11](https://github.com/ankuljain09/test_repo/compare/v1.3.10...v1.3.11) (2023-01-13)
+
+
+### Bug Fixes
+
+* Update the setup file ([e29e249](https://github.com/ankuljain09/test_repo/commit/e29e24999655d84d8c9a82f762f5e918b3d7fcda))
+* updated readme ([#57](https://github.com/ankuljain09/test_repo/issues/57)) ([6acd310](https://github.com/ankuljain09/test_repo/commit/6acd310fb7888be08bab80c7e2835655c95de6e5))
+
 ## [1.3.10](https://github.com/ankuljain09/test_repo/compare/v1.3.9...v1.3.10) (2023-01-10)
 
 
