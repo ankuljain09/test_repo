@@ -1,3 +1,3 @@
 # test_repo
 
-This is the test rep
+This is the test repo
