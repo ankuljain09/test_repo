@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.13](https://github.com/ankuljain09/test_repo/compare/v1.3.12...v1.3.13) (2023-01-13)
+
+
+### Bug Fixes
+
+* Update readme ([c13f788](https://github.com/ankuljain09/test_repo/commit/c13f78834a09ee6dd32f5d3dee96998436cc5dcc))
+
 ## [1.3.12](https://github.com/ankuljain09/test_repo/compare/v1.3.11...v1.3.12) (2023-01-13)
 
 
