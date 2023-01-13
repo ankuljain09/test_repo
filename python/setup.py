@@ -78,14 +78,15 @@ dependencies=[
 	"google-cloud-bigquery>=3.4.0"
 ]
 
+
+package_root = os.path.abspath(os.path.dirname(__file__))
+
 version = {}
 with open(
     os.path.join(package_root, "version.py")
 ) as fp:
     exec(fp.read(), version)
 version = version["__version__"]
-
-package_root = os.path.abspath(os.path.dirname(__file__))
 
 readme_filename = os.path.join(package_root, "README.md")
 with io.open(readme_filename, encoding="utf-8") as readme_file:
