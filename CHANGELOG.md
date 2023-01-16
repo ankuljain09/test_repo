@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.15](https://github.com/ankuljain09/test_repo/compare/v1.3.14...v1.3.15) (2023-01-16)
+
+
+### Bug Fixes
+
+* Update Python readme ([f0e22c4](https://github.com/ankuljain09/test_repo/commit/f0e22c4a2827f9387a1e91c7b5a753c013b565ee))
+
 ## [1.3.14](https://github.com/ankuljain09/test_repo/compare/v1.3.13...v1.3.14) (2023-01-16)
 
 
