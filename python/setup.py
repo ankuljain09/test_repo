@@ -82,11 +82,12 @@ dependencies=[
 package_root = os.path.abspath(os.path.dirname(__file__))
 
 version = {}
-with open(
+with io.open(
     os.path.join(package_root, "version.py")
-) as fp:
-    exec(fp.read(), version)
+) as version_file:
+    exec(version_file.read(), version)
 version = version["__version__"]
+log.info('Version Number: %s', version)
 
 readme_filename = os.path.join(package_root, "README.md")
 with io.open(readme_filename, encoding="utf-8") as readme_file:
