@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.18](https://github.com/ankuljain09/test_repo/compare/v1.3.17...v1.3.18) (2023-01-16)
+
+
+### Bug Fixes
+
+* updated version file path ([7b4655d](https://github.com/ankuljain09/test_repo/commit/7b4655d723c9c60b584266e441957679445cc2de))
+
 ## [1.3.17](https://github.com/ankuljain09/test_repo/compare/v1.3.16...v1.3.17) (2023-01-16)
 
 
