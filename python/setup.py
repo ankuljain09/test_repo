@@ -82,7 +82,8 @@ dependencies=[
 package_root = os.path.dirname(__file__)
 
 version = {}
-with io.open(package_root + "/version.py") as version_file:
+version_filename = os.path.join(package_root, "version.py")
+with io.open(package_root, version_filename) as version_file:
     exec(version_file.read(), version)
 version = version["__version__"]
 log.info('Version Number: %s', version)
