@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.14](https://github.com/ankuljain09/test_repo/compare/v1.3.13...v1.3.14) (2023-01-16)
+
+
+### Bug Fixes
+
+* Update setup.py ([3b0ce6e](https://github.com/ankuljain09/test_repo/commit/3b0ce6e2182d55ab1e97aa3c6f2e7990a981853d))
+
 ## [1.3.13](https://github.com/ankuljain09/test_repo/compare/v1.3.12...v1.3.13) (2023-01-13)
 
 
