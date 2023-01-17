@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.21](https://github.com/ankuljain09/test_repo/compare/v1.3.20...v1.3.21) (2023-01-17)
+
+
+### Bug Fixes
+
+* Adding chore(main) as the acceptable pattern ([6ff6fc3](https://github.com/ankuljain09/test_repo/commit/6ff6fc3b23f308bada7a5e6df039eac6c447bd37))
+
 ## [1.3.20](https://github.com/ankuljain09/test_repo/compare/v1.3.19...v1.3.20) (2023-01-17)
 
 
