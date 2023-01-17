@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.20](https://github.com/ankuljain09/test_repo/compare/v1.3.19...v1.3.20) (2023-01-17)
+
+
+### Bug Fixes
+
+* Created a Manifest.in file ([34dfc38](https://github.com/ankuljain09/test_repo/commit/34dfc38096facf3a3038f5ad6b9cded27cb89c53))
+
 ## [1.3.19](https://github.com/ankuljain09/test_repo/compare/v1.3.18...v1.3.19) (2023-01-16)
 
 
