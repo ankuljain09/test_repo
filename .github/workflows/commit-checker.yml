@@ -22,4 +22,4 @@ jobs:
         uses: gsactions/commit-message-checker@v2
         with:
           pattern: '^(\bfeat!|\bfix|\bfixes|\bFix|\bfeat|\bbuild|\bchore|\bci|\bdocs|\brefactor|\bperf|\btest|\bchore\(main\)):.*$'
-          error: 'You need at least one of the Conventional commit types(fix:, feat:, feat!:, build:, chore:, ci:, docs:, refactor:, perf:, test:) at the start of commit message'
+          error: 'You need at least one of the Conventional commit types(fix:, feat:, feat!:, build:, chore:, ci:, docs:, refactor:, perf:, test:) at the start of commit message. Read more about which commit type prefix to use: https://docs.google.com/document/d/1PGFcOWRa2T2nMd8OmgfOczwcwW_as-g1bbovptLXC3s/edit?usp=sharing&resourcekey=0-9oEz7qXyz62xQRSjrLXADw'
