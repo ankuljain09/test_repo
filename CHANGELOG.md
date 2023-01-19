@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.22](https://github.com/ankuljain09/test_repo/compare/v1.3.21...v1.3.22) (2023-01-19)
+
+
+### Documentation
+
+* updating the file name i docs ([644c80a](https://github.com/ankuljain09/test_repo/commit/644c80a8dbff55ad7f84d9c3cdd19f833b69ff0b))
+
 ## [1.3.21](https://github.com/ankuljain09/test_repo/compare/v1.3.20...v1.3.21) (2023-01-17)
 
 
